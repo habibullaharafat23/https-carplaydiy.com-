@@ -11,7 +11,7 @@ document.getElementsByTagName("head")[0].appendChild(link);
 var link = document.createElement("link");
 link.type = "text/css";
 link.rel = "stylesheet";
-link.href = "/style.css";
+link.href ="https://cdn.jsdelivr.net/gh/habibullaharafat23/https-carplaydiy.com-@b0e1a057b63778a164d41f541e7e3ca1e578c1ad/style.css";
 document.getElementsByTagName("head")[0].appendChild(link);
 
 //html elements
